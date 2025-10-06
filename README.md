@@ -22,9 +22,6 @@ The Camping Website is designed to showcase a fictional outdoor adventure compan
 
 👉 [View the live site](https://banoosasanipour.github.io/Camping-Website/)
 
-## 📸 Screenshots
-
-_Add screenshots here (e.g., homepage, mobile view, etc.)_
 
 ## 📦 Installation
 
